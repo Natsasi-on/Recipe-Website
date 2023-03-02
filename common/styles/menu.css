@@ -1,0 +1,72 @@
+.menu-page {
+    margin-top: 100px;
+}
+
+.filter-menu-box {
+    padding: 20px 10px;
+    border-radius: 100px;
+    box-shadow: 10px 15px 15px #dadada, -10px -15px 15px #ffffff;
+    background: rgb(243, 243, 245);
+    background: linear-gradient(90deg, rgba(243, 243, 245, 1) 0%, rgba(255, 255, 255, 1) 86%);
+    justify-content: space-evenly;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.filter svg,
+.filter div {
+    color: #ff8243;
+    fill: #ff8243;
+}
+
+.filter:hover svg,
+.filter:hover div {
+    color: #000000;
+    fill: #000000;
+}
+
+.filter-menu-box svg {
+    height: 40px;
+}
+
+/***************************************************/
+.dish-box {
+    border-radius: 30px;
+    background: linear-gradient(145deg, #ececec, #ffffff);
+    box-shadow: 28px 28px 45px #d4d4d4, -28px -28px 45px #ffffff;
+    display: flow-root;
+    padding: 0 30px 10px 30px;
+    margin: 130px 0 30px;
+    width: 400px;
+}
+
+.dish-img img {
+    height: 240px;
+    width: 340px;
+    border-radius: 60%;
+    margin-top: -100px;
+    object-fit: cover;
+}
+
+.dish-rating img {
+    height: 25px;
+}
+
+.dish-info-left {
+    border-right: 1px solid #dadada;
+    width: 100%;
+}
+
+hr {
+    border: 1px solid #dadada;
+}
+
+.dish-info-right {
+    width: 100%;
+}
+
+.our-menu {
+    margin: 0 8rem;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

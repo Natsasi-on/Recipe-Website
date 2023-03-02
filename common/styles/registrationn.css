@@ -1,0 +1,31 @@
+.title-box {
+    margin-top: 100px;
+}
+
+.formBox {
+    padding: 30px;
+    border-radius: 30px;
+    margin: 0 auto;
+    background: linear-gradient(145deg, #ececec, #ffffff);
+    box-shadow: 28px 28px 45px #e6e6e6, -28px -28px 45px #ffffff;
+    width: 50%;
+    text-align: left;
+}
+
+
+
+
+
+section {
+    margin-bottom: 20px;
+}
+
+
+/* login page ****************************************/
+.formBox a {
+    color: #000000;
+}
+
+.formBox a:hover {
+    color: #ff8243;
+}
