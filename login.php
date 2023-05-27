@@ -14,7 +14,7 @@ require './includes/ini.php';
 include './includes/functions.php';
 
 if (isset($_POST['btnLogin'])) {
-
+ 
     if (empty($_POST["email"])) {
         $emailError = " Email Address cannot be blank!";
     } else {
