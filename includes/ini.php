@@ -1,6 +1,6 @@
 <?php
 
-$dsn = "mysql:host=localhost;dbname=thaifooddb";
+$dsn = "mysql:host=localhost:3308;dbname=thaifooddb";
 $dBUsername = "root";
 $dBPassword = "";
 
