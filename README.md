@@ -4,9 +4,6 @@
     <br>
     <a href="http://thairecipesweb.rf.gd/index.php">[ Live Website ]</a>
 </p>
-
----
-
 ## Technologies Used
 * HTML
 * CSS
