@@ -59,13 +59,14 @@ We have exciting plans for the future of this project, including:
 
 - **Search Menu**: Introducing a "Search Menu" feature to help users find their desired recipes or ingredients easily.
 
-## License
-This project is licensed under the Natsasion License - see the [LICENSE.md](LICENSE) file for details.
-
 ## Get Started
 Feel free to explore the live website for a firsthand experience of the Thai recipe website!
 
 For more details, visit the [Live website](http://thairecipesweb.rf.gd/index.php).
+
+## License
+This project is licensed under the Natsasion License - see the [LICENSE.md](LICENSE) file for details.
+
 
 ## Contact
 If you have any questions or feedback, please don't hesitate to reach out to me at [natsasion.sri@gmail.com](mailto:natsasion.sri@gmail.com).
