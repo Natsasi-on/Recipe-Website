@@ -1,6 +1,5 @@
-<p align="center">
-    Recipe Website
-</p>
+<h1 align="center">Recipe Website</h1>
+
 <p align="center">
     A compelling Thai recipe website that helps you learn to cook authentic Thai recipes.
     <br>
