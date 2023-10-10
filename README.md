@@ -1,5 +1,6 @@
-# Thai Recipe Website
-
+<p align="center">
+    Recipe Website
+</p>
 <p align="center">
     A compelling Thai recipe website that helps you learn to cook authentic Thai recipes.
     <br>
